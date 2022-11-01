@@ -1,0 +1,29 @@
+body{
+    background-color: lightslategray;
+    color: honeydew;
+}
+table{
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+th{
+    padding-bottom: 30px;
+}
+ td {
+  font-size: large;
+   
+    padding-bottom: 25px;
+    padding-left: 30px;
+    
+  }
+  a{
+    color:azure;
+    text-decoration: none;
+  }
+  
+td:hover {background-color:dimgray;
+        
+        border:inset slategray 3px;
+        border-radius: 20px 10px 20px 10px;
+}
